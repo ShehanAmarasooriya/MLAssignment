@@ -21,4 +21,6 @@ misc.forsale talk.politics.misc
 talk.politics.guns
 talk.politics.mideast talk.religion.misc
 alt.atheism
-soc.religion.christian
+soc.religion.christianAdd
+
+Added
